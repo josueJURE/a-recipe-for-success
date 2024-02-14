@@ -16,7 +16,12 @@
     width: 500px;
     border: black 1px solid;
     border-radius: 5%;
+    background-image: url('/public/image/dish-image.jpeg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: cover; /* Adjust the background size to cover the entire element */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
 }
+
 
 h1 {
     text-wrap: balance;
