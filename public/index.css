@@ -16,3 +16,10 @@ h1 {
     text-wrap: balance;
     text-align: center;
 }
+
+.allergies {
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    height: fit-content;
+}
